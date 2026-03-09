@@ -63,6 +63,6 @@ My goal is to understand systems deeply and design solutions that work beyond pr
 
 ## 📫 Connect
 
-GitHub: https://github.com/soumyasswt
-LinkedIn: https://www.linkedin.com/in/soumyasswt/
-Email: [somsah.official@gmail.com](mailto:somsah.official@gmail.com)
+GitHub: https://github.com/soumyasswt  
+LinkedIn: https://www.linkedin.com/in/soumyasswt/  
+Email: [somsah.official@gmail.com](mailto:somsah.official@gmail.com)  
