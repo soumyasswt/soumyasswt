@@ -2,7 +2,7 @@
   <img src="banner.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Soumya Saswat</h1>
+<h1 align="center">Hi, I'm Soumya Saswat👋</h1>
 
 <p align="center">
 Engineer | Systems Builder | AI Enthusiast
