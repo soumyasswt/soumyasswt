@@ -13,7 +13,7 @@ Engineer | Systems Builder | AI Enthusiast
 ---
 
 <p align="center">
-  <img src="https://pin.it/3mngoTInA" width="700">
+  <img src="[https://pin.it/3mngoTInA](https://pin.it/3mngoTInA)" width="700">
 </p>
 
 ---
