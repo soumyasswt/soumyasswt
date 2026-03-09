@@ -10,14 +10,13 @@ Engineer | Systems Builder | AI Enthusiast
 
 ---
 
+I enjoy building software that solves real problems. My work focuses on backend systems, artificial intelligence, and practical engineering solutions. I like exploring how intelligent systems can automate complex tasks and improve decision-making.
+
 ---
 
 <p align="center">
   <img src="Pixel Art_ Very Best Artists on the Internet _ IDI Design Blog.gif" width="700">
 </p>
-
----
-I enjoy building software that solves real problems. My work focuses on backend systems, artificial intelligence, and practical engineering solutions. I like exploring how intelligent systems can automate complex tasks and improve decision-making.
 
 ---
 
