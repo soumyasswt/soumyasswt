@@ -8,7 +8,11 @@
 Engineer | Systems Builder | AI Enthusiast
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Engineer-Building%20Systems-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Backend-Engineering-green?style=for-the-badge">
+</p>
 
 ---
 
@@ -17,11 +21,17 @@ Engineer | Systems Builder | AI Enthusiast
 </p>
 
 ---
+
 I enjoy building software that solves real problems. My work focuses on backend systems, artificial intelligence, and practical engineering solutions. I like exploring how intelligent systems can automate complex tasks and improve decision-making.
 
 ---
 
 ## 🚀 What I'm Currently Working On
+
+![SyncStream](https://img.shields.io/badge/SyncStream-Streaming%20Platform-blue)
+![Plagiarism](https://img.shields.io/badge/AI-Plagiarism%20Detection-purple)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![Bug Bounty](https://img.shields.io/badge/Security-Bug%20Bounty-green)
 
 * SyncStream — a real-time streaming platform architecture
 * AI-based plagiarism detection system
@@ -31,6 +41,11 @@ I enjoy building software that solves real problems. My work focuses on backend 
 ---
 
 ## 🌱 What I'm Learning
+
+![Machine Learning](https://img.shields.io/badge/Learning-Machine%20Learning-blue)
+![Data Pipelines](https://img.shields.io/badge/Data-Pipelines-orange)
+![Backend](https://img.shields.io/badge/Backend-Architecture-green)
+![Security](https://img.shields.io/badge/Security-Research-red)
 
 * Machine learning fundamentals and applied ML systems
 * data processing pipelines
@@ -43,7 +58,12 @@ I enjoy building software that solves real problems. My work focuses on backend 
 
 ### Languages
 
-`Python` `C++` `JavaScript` `TypeScript`
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
 
 ### Domains
 
@@ -51,7 +71,13 @@ I enjoy building software that solves real problems. My work focuses on backend 
 
 ### Tools
 
-`Git` `Docker` `Linux` `Modern development workflows`
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
+`Modern development workflows`
 
 ---
 
@@ -67,9 +93,19 @@ My goal is to understand systems deeply and design solutions that work beyond pr
 
 ---
 
-
 ## 📫 Connect
 
-GitHub: https://github.com/soumyasswt  
-LinkedIn: https://www.linkedin.com/in/soumyasswt/  
-Email: [somsah.official@gmail.com](mailto:somsah.official@gmail.com)  
+<p>
+<a href="https://github.com/soumyasswt">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/soumyasswt/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:somsah.official@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
