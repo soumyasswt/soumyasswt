@@ -10,6 +10,13 @@ Engineer | Systems Builder | AI Enthusiast
 
 ---
 
+---
+
+<p align="center">
+  <img src="https://pin.it/3mngoTInA" width="700">
+</p>
+
+---
 I enjoy building software that solves real problems. My work focuses on backend systems, artificial intelligence, and practical engineering solutions. I like exploring how intelligent systems can automate complex tasks and improve decision-making.
 
 ---
